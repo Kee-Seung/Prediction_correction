@@ -3,24 +3,24 @@
 
 
 # Descriptions
- There are 6 Matlab files to run the simulation.
+ There are 6 main Matlab files to run the simulation.
 
-### Test_function_2D_CG.m
+### 1. 'Test_function_2D_CG.m'
 The Matlab file for solving 4 multi-objective problems composed of two design variables with the conjugate gradient algorithm.
 
-### Test_function_2D_MMA.m
+### 2. 'Test_function_2D_MMA.m'
 The Matlab file for solving 4 multi-objective problems composed of two design variables with the MMA algorithm.
 
-### Test_function_2D_MMAPC.m
+### 3. 'Test_function_2D_MMAPC.m'
 The Matlab file for solving 4 multi-objective problems composed of two design variables with the MMA and prediction-correction algorithms.
 
-### Test_function_5D_CG.m
+### 4. 'Test_function_5D_CG.m'
 The Matlab file for solving 4 multi-objective problems composed of five design variables with the conjugate gradient algorithm.
 
-### Test_function_5D_MMA.m
+### 5. 'Test_function_5D_MMA.m'
 The Matlab file for solving 4 multi-objective problems composed of five design variables with the MMA algorithm.
 
-### Test_function_5D_MMAPC.m
+### 6. 'Test_function_5D_MMAPC.m'
 The Matlab file for solving 4 multi-objective problems composed of five design variables with the MMA and prediction-correction algorithms.
 
 
